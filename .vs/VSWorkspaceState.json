@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\shopapp.business",
+    "\\shopapp.webui",
+    "\\shopapp.webui\\Views\\Account",
+    "\\shopapp.webui\\Views\\Product",
+    "\\shopapp.webui\\Views\\Shop"
+  ],
+  "SelectedNode": "\\shopapp.webui\\wwwroot",
+  "PreviewInSolutionExplorer": false
+}

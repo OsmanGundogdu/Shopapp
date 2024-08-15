@@ -1,0 +1,25 @@
+C:\Users\sadikturan\Desktop\shopapp\shopapp.entity\bin\Debug\netstandard2.0\shopapp.entity.deps.json
+C:\Users\sadikturan\Desktop\shopapp\shopapp.entity\bin\Debug\netstandard2.0\shopapp.entity.dll
+C:\Users\sadikturan\Desktop\shopapp\shopapp.entity\bin\Debug\netstandard2.0\shopapp.entity.pdb
+C:\Users\sadikturan\Desktop\shopapp\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.csprojAssemblyReference.cache
+C:\Users\sadikturan\Desktop\shopapp\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.AssemblyInfoInputs.cache
+C:\Users\sadikturan\Desktop\shopapp\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.AssemblyInfo.cs
+C:\Users\sadikturan\Desktop\shopapp\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.dll
+C:\Users\sadikturan\Desktop\shopapp\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.pdb
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp\shopapp.entity\bin\Debug\netstandard2.0\shopapp.entity.deps.json
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp\shopapp.entity\bin\Debug\netstandard2.0\shopapp.entity.dll
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp\shopapp.entity\bin\Debug\netstandard2.0\shopapp.entity.pdb
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.AssemblyInfoInputs.cache
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.AssemblyInfo.cs
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.csproj.CoreCompileInputs.cache
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.dll
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.pdb
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.entity\bin\Debug\netstandard2.0\shopapp.entity.deps.json
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.entity\bin\Debug\netstandard2.0\shopapp.entity.dll
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.entity\bin\Debug\netstandard2.0\shopapp.entity.pdb
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.csprojAssemblyReference.cache
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.AssemblyInfoInputs.cache
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.AssemblyInfo.cs
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.csproj.CoreCompileInputs.cache
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.dll
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.pdb

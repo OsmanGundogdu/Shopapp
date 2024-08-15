@@ -1,0 +1,3 @@
+C:\Users\osman1\Desktop\ShopApp\shopapp.entity.dll
+C:\Users\osman1\Desktop\ShopApp\shopapp.entity.deps.json
+C:\Users\osman1\Desktop\ShopApp\shopapp.entity.pdb

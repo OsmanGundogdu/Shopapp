@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2iyluYsIa+k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\osman1\\Desktop\\shopapp (3) - API yok\\shopapp.entity\\shopapp.entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\osman1\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\osman1\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

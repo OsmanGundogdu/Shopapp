@@ -1,0 +1,41 @@
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.business.deps.json
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.business.dll
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.business.pdb
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.data.dll
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.entity.dll
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.entity.pdb
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.data.pdb
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.csprojAssemblyReference.cache
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.AssemblyInfoInputs.cache
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.AssemblyInfo.cs
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.csproj.CopyComplete
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.dll
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.pdb
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.business.deps.json
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.business.dll
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.business.pdb
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.data.dll
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.entity.dll
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.entity.pdb
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.data.pdb
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.AssemblyInfoInputs.cache
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.AssemblyInfo.cs
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.csproj.CoreCompileInputs.cache
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.dll
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.pdb
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.csprojAssemblyReference.cache
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.csproj.CopyComplete
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.business\bin\Debug\netstandard2.0\shopapp.business.deps.json
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.business\bin\Debug\netstandard2.0\shopapp.business.dll
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.business\bin\Debug\netstandard2.0\shopapp.business.pdb
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.business\bin\Debug\netstandard2.0\shopapp.data.dll
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.business\bin\Debug\netstandard2.0\shopapp.entity.dll
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.business\bin\Debug\netstandard2.0\shopapp.entity.pdb
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.business\bin\Debug\netstandard2.0\shopapp.data.pdb
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.csprojAssemblyReference.cache
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.AssemblyInfoInputs.cache
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.AssemblyInfo.cs
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.csproj.CoreCompileInputs.cache
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.csproj.CopyComplete
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.dll
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.pdb

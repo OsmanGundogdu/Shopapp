@@ -1,0 +1,15 @@
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.business\bin\Release\netstandard2.0\shopapp.business.deps.json
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.business\bin\Release\netstandard2.0\shopapp.business.dll
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.business\bin\Release\netstandard2.0\shopapp.business.pdb
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.business\bin\Release\netstandard2.0\shopapp.data.dll
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.business\bin\Release\netstandard2.0\shopapp.entity.dll
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.business\bin\Release\netstandard2.0\shopapp.entity.pdb
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.business\bin\Release\netstandard2.0\shopapp.data.pdb
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.business\obj\Release\netstandard2.0\shopapp.business.AssemblyInfoInputs.cache
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.business\obj\Release\netstandard2.0\shopapp.business.AssemblyInfo.cs
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.business\obj\Release\netstandard2.0\shopapp.business.csproj.CoreCompileInputs.cache
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.business\obj\Release\netstandard2.0\shopapp.business.dll
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.business\obj\Release\netstandard2.0\shopapp.business.pdb
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.business\obj\Release\netstandard2.0\shopapp.business.csproj.AssemblyReference.cache
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.business\obj\Release\netstandard2.0\shopapp.business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osman1\Desktop\Programlama\programlama projelerim\vscode projelerim (udemy)\shopapp (3) - API yok\shopapp.business\obj\Release\netstandard2.0\shopapp..684EB7D7.Up2Date

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\osman1\\Desktop\\Programlama\\programlama projelerim\\vscode projelerim (udemy)\\shopapp (3) - API yok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\osman1\\Desktop\\Programlama\\programlama projelerim\\vscode projelerim (udemy)\\shopapp (3) - API yok\\shopapp.webui\\Startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:shopapp.webui\\Startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\osman1\\Desktop\\Programlama\\programlama projelerim\\vscode projelerim (udemy)\\shopapp (3) - API yok\\shopapp.webui\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:shopapp.webui\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\osman1\\Desktop\\Programlama\\programlama projelerim\\vscode projelerim (udemy)\\shopapp (3) - API yok\\shopapp.webui\\shopapp.webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:shopapp.webui\\shopapp.webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\osman1\\Desktop\\Programlama\\programlama projelerim\\vscode projelerim (udemy)\\shopapp (3) - API yok\\shopapp.webui\\Views\\Account\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:shopapp.webui\\Views\\Account\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\osman1\\Desktop\\Programlama\\programlama projelerim\\vscode projelerim (udemy)\\shopapp (3) - API yok\\shopapp.webui\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:shopapp.webui\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\osman1\\Desktop\\Programlama\\programlama projelerim\\vscode projelerim (udemy)\\shopapp (3) - API yok\\shopapp.webui\\Program.cs",
+              "RelativeDocumentMoniker": "shopapp.webui\\Program.cs",
+              "ToolTip": "C:\\Users\\osman1\\Desktop\\Programlama\\programlama projelerim\\vscode projelerim (udemy)\\shopapp (3) - API yok\\shopapp.webui\\Program.cs",
+              "RelativeToolTip": "shopapp.webui\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:00:22.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "shopapp.webui.csproj",
+              "DocumentMoniker": "C:\\Users\\osman1\\Desktop\\Programlama\\programlama projelerim\\vscode projelerim (udemy)\\shopapp (3) - API yok\\shopapp.webui\\shopapp.webui.csproj",
+              "RelativeDocumentMoniker": "shopapp.webui\\shopapp.webui.csproj",
+              "ToolTip": "C:\\Users\\osman1\\Desktop\\Programlama\\programlama projelerim\\vscode projelerim (udemy)\\shopapp (3) - API yok\\shopapp.webui\\shopapp.webui.csproj",
+              "RelativeToolTip": "shopapp.webui\\shopapp.webui.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-09T15:00:17.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\osman1\\Desktop\\Programlama\\programlama projelerim\\vscode projelerim (udemy)\\shopapp (3) - API yok\\shopapp.webui\\Startup.cs",
+              "RelativeDocumentMoniker": "shopapp.webui\\Startup.cs",
+              "ToolTip": "C:\\Users\\osman1\\Desktop\\Programlama\\programlama projelerim\\vscode projelerim (udemy)\\shopapp (3) - API yok\\shopapp.webui\\Startup.cs",
+              "RelativeToolTip": "shopapp.webui\\Startup.cs",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAAANcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:59:18.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\osman1\\Desktop\\Programlama\\programlama projelerim\\vscode projelerim (udemy)\\shopapp (3) - API yok\\shopapp.webui\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "shopapp.webui\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\osman1\\Desktop\\Programlama\\programlama projelerim\\vscode projelerim (udemy)\\shopapp (3) - API yok\\shopapp.webui\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "shopapp.webui\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T14:59:03.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\osman1\\Desktop\\Programlama\\programlama projelerim\\vscode projelerim (udemy)\\shopapp (3) - API yok\\shopapp.webui\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "shopapp.webui\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\osman1\\Desktop\\Programlama\\programlama projelerim\\vscode projelerim (udemy)\\shopapp (3) - API yok\\shopapp.webui\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "shopapp.webui\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:25:58.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
